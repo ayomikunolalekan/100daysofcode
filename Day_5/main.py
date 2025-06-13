@@ -18,7 +18,7 @@ else:
     print()
     thirdQuestion = input("Do you have a singing voice that can shake the past, present, and the future?: ")
     if thirdQuestion == "Y":
-        print("Sammie, or you I say PreacherBoy, the man with the heavenly voice. Sing for me please ❤️")
+        print("Sammie, or should I say PreacherBoy, the man with the heavenly voice. Sing for me please ❤️")
     else:
         print("If you're not Smoke, you're not Mary, and you're not Sammie, then who are you 🤔?")
 
