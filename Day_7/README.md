@@ -1,0 +1,3 @@
+## Project Overview  
+This project was built using if, elif and nested if statements. It is a fake fan question generator which someone can use to see if their friends are real fans of a show they claim they like. Unfortunately, the program only contains questions for two shows which are shows I love.  
+The program was also built as a project for Day 7 of 100 days of code. Looking forward to doing more. 
