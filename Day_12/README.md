@@ -1,0 +1,2 @@
+## Project Overview  
+Today's project is a simple debugging session to test my knowledge on the right code syntax. I added the broken code as comments before adding down the fixed version of the code sample.  
