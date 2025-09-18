@@ -6,7 +6,7 @@ userScore = float(input("What is your score on the test?: "))
 
 scorePercentage = (userScore / maxScore) * 100
 scorePercentage = round(scorePercentage, 2)
-print("Based on your score, your total percentage is", scorePercentage)
+print("Based on your score, your total percentage is", scorePercentage, "%")
 
 if scorePercentage >= 90 and scorePercentage <= 100:
   print("Congratulations 🥳🥳🥳, you got an A+ on your", course, "test. I'm really proud of you.")
