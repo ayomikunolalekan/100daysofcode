@@ -1,0 +1,5 @@
+## Project Overview  
+This program is a character generator. The user inputs their character's name and the health stat or health point of the character is gotten by rolling a six sided dice and a eight sided dice and multiplying the outcomes. It makes use of two functions, one which rolls a dice with any number of sides and one that stores the result of the six sided dice roll and the eight sided dice roll and returns their product as the health of the character. A return statement is also used instead of print statements in the functions, the return statements replaces the function call with what the function is supposed to return. 
+
+## Areas of Improvement  
+The only area of improvement would be to create an exception when the user is asked if they want to create another character. If the user replies anything other than yes or no, an exception should be raised and the question should be repeated until the user answers yes to create another character or no to exit the program. 
