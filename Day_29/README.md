@@ -1,0 +1,6 @@
+## Project Overview  
+The aim of this project was to build a subroutine or function that changes the color of a particular word or phrase in a sentence or paragraph. This subroutine only has a few colors and the program makes use of end and sep to reduce the amount of spaces in between the words to nothing and to join all the sentences with a space. The user calls the function on the word or phrase they want to change it's color and the color they want to change it to and later on when they are done with all color changing, call the function on the next set of words and the color being default.  
+
+## Areas of Improvement  
+1. An area of improvement would be to add all the available colors and their color codes so users can change the words to any color on the list.  
+2. The only other one I can think of is giving the user the chance to write their own sentence and call the function on whatever word and color they want instead of having the text hardcoded into the program but that might end up being a whole different program by itself.
